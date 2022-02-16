@@ -1,6 +1,7 @@
+## `Deploy`
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LORD-Zenix/FOLLOW-BG/)
 
-
-# CARA INSTALL
+## CARA INSTALL
     [COMMAND TERMUX]
 $ pkg update && pkg upgrade
 
