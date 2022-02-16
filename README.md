@@ -16,7 +16,7 @@ $ termux-setup-storage
 
 $ cd /sdcard
 
-$ cd Nama Fil
+$ cd Nama File
 
 $ npm start
 
